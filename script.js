@@ -66,7 +66,7 @@ let clickHold = function () {
     document.getElementById(`score--${activePlayer}`).textContent =
       scores[activePlayer];
     // 2. Check if player's score == 100, declare winner & finish game
-    if (scores[activePlayer] >= 30) {
+    if (scores[activePlayer] >= 100) {
       //declare winner
       document
         .querySelector(`.player--${activePlayer}`)
