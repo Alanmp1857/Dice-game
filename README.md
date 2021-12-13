@@ -2,7 +2,7 @@
 
 The idea of this game is that you can roll a dice as many times you want before you click on hold, it keeps getting added to the current score, if the dice shows 0, you current score also becomes 0 and the turn goes to the second player, eventually whoever scores 100 at first, wins the game.
 
-The game of Pig is a simple jeopardy dice game in which two players race to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls (i.e. the turn total).
+The game is a simple jeopardy dice game in which two players race to reach 100 points. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player holds and scores the sum of the rolls (i.e. the turn total).
 
 # Game page
 
